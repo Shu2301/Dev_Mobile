@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="i_n">Call</string>
+    <string name="nh_p_s_i_n_tho_i_c_n_i_n">Type phone number need to call: </string>
+</resources>
